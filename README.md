@@ -52,7 +52,7 @@ The project uses *K-Means Clustering* to divide customers into distinct segments
 
 The dataset used in this project is the *Customer Segmentation Data, available on **Kaggle*. You can find the dataset and download it using the following link:
 
-- [Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial)
+- [Customer Segmentation Data For Marketing analysis](https://www.kaggle.com/datasets/fahmidachowdhury/customer-segmentation-data-for-marketing-analysis)
 
 The dataset contains customer demographic details like age, gender, annual income, and spending behavior. This data is used to perform customer segmentation using the K-Means algorithm.
 
